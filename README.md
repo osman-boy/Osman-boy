@@ -24,8 +24,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=osman-boy&show_icons=true&theme=midnight-purple)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=osman-boy&theme=midnight-purple)
-
 ![GitHub metrics](https://metrics.lecoq.io/osman-boy)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=osman-boy)
