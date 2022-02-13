@@ -20,7 +20,7 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osman-boy&theme=aura&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osman-boy&theme=aura&layout=compact)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=osman-boy&show_icons=true&theme=midnight-purple)
 
