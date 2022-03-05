@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Osman
 #### I am from Kazakhstan, android junior developer. I love the Kotlin programming language. Passionate about Android app development.
-![](https://justresults.co.nz/wp-content/uploads/2015/10/web-developer-banner.png)
+![](https://user-images.githubusercontent.com/77715479/156878950-ff9e7bce-a9b3-4e75-bff4-ccd1b5823148.png)
 
 <h3 align="left">Languages and Tools: </h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height=" 40"/> </a> <a <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
