@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Osman
-#### I am from Kazakhstan, android junior developer. I love the Kotlin programming language. Passionate about Android app development.
+#### I am from Kazakhstan, android developer. I love the Kotlin programming language. Passionate about Android app development.
 ![](https://user-images.githubusercontent.com/77715479/156878950-ff9e7bce-a9b3-4e75-bff4-ccd1b5823148.png)
 
 <h3 align="left">Languages and Tools: </h3>
